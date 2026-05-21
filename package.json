@@ -3,6 +3,10 @@
   "displayName": "Tahcia",
   "description": "Tahcia script download & upload gateway",
   "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tahcia/vscode.git"
+  },
   "engines": {
     "vscode": "^1.120.0"
   },
