@@ -1,8 +1,10 @@
 {
   "name": "tahcia",
   "displayName": "Tahcia",
+  "publisher": "tahcia",
   "description": "Tahcia script download & upload gateway",
   "version": "1.0.0",
+  "icon": "images/icon.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/tahcia/vscode.git"
