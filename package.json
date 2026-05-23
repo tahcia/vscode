@@ -3,7 +3,7 @@
   "displayName": "Tahcia",
   "publisher": "tahcia",
   "description": "Tahcia script download & upload gateway",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "icon": "images/icon.png",
   "repository": {
     "type": "git",
