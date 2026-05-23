@@ -20,4 +20,9 @@ To pack and install this extension locally:
 1. Compile the production package:
    
 ```bash
+
+   code --install-extension tahcia.tahcia
+
+# or compile locally
+
    npm run package
