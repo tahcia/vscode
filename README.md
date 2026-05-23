@@ -15,14 +15,19 @@ Tahcia is a lightweight, efficient Visual Studio Code extension designed for ful
 
 ## Installation
 
+   
+```bash
+   code --install-extension tahcia.tahcia
+```
+
 To pack and install this extension locally:
 
-- Compile the production package:
-   
 ```bash
    npm run package
 ```
-- For VSIX Installation 
+
+For VSIX Installation:
+Download & Install the following
 ```bash
-   Download & Install  https://github.com/tahcia/vscode/releases
+   https://github.com/tahcia/vscode/releases
 ```
